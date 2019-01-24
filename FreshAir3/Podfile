@@ -1,0 +1,5 @@
+source 'https://github.com/CocoaPods/Specs.git'
+project '/Users/serenahacker/desktop/FreshAir3/FreshAir3.xcodeproj'
+target 'FreshAir3' do
+    pod 'GoogleMaps'
+end
